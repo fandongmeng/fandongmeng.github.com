@@ -264,6 +264,10 @@ Full-Width Styles
   width: 100%;
 }
 
+.middle {
+  width: 80%;
+}
+
 .inner {
   position: relative;
   max-width: 1000px;
