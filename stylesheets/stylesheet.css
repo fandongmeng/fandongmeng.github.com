@@ -266,7 +266,7 @@ Full-Width Styles
 
 .inner {
   position: relative;
-  max-width: 960px;
+  max-width: 1000px;
   padding: 20px 10px;
   margin: 0 auto;
 }
@@ -385,7 +385,7 @@ Small Device Styles
 
   .inner {
     min-width: 640px;
-    max-width: 960px;
+    max-width: 1000px;
   }
 
   #project_title {
